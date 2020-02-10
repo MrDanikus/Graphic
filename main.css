@@ -1,0 +1,8 @@
+#canvas-holder{
+	position: absolute;
+	width: 800px;
+	height: 300px;
+	margin-top: calc(50vh - 150px);
+	margin-left: calc(50vw - 400px);
+	background-image: url("https://picsum.photos/800/300");
+}
